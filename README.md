@@ -8,7 +8,7 @@ A modern, responsive salon website built with HTML, CSS, and JavaScript, designe
 
 ## 🔗 Live Demo
 
-[https://aryan-sengar-portfolio-v2.netlify.app/](https://salon-website.netlify.app/)
+[https://salon-website.netlify.app/](https://salon-website.netlify.app/)
 
 ---
 
@@ -99,3 +99,4 @@ Unauthorized copying is strictly prohibited.
 ---
 
 > 💬 _Feel free to drop a ⭐ if you find this helpful!_
+
