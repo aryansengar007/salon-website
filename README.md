@@ -29,16 +29,19 @@ A modern, responsive salon website built with HTML, CSS, and JavaScript, designe
 
 ## 📁 Project Structure
 
----
-
+```bash
 salon-website/
-│── index.html # Main HTML file
-│── style.css # Stylesheet
-│── script.js # JavaScript functionality
-│── images/ # Logo, gallery, and testimonial images
-│── README.md # Project documentation
 
----
+│── index.html # Main HTML file
+
+│── style.css # Stylesheet
+
+│── script.js # JavaScript functionality
+
+│── images/ # Logo, gallery, and testimonial images
+
+│── README.md # Project documentation
+```
 
 ---
 
@@ -58,15 +61,15 @@ salon-website/
 
 Clone the repository:
 
----
-
-## git clone https://github.com/aryansengar007/salon-website.git
+```bash
+git clone https://github.com/aryansengar007/salon-website.git
+```
 
 Navigate into the project folder:
 
----
-
-## cd salon-website
+```bash
+cd salon-website
+```
 
 Open index.html in your browser to view the site.
 
@@ -99,4 +102,5 @@ Unauthorized copying is strictly prohibited.
 ---
 
 > 💬 _Feel free to drop a ⭐ if you find this helpful!_
+
 
