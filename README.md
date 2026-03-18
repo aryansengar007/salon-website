@@ -29,9 +29,9 @@ A modern, responsive salon website built with HTML, CSS, and JavaScript, designe
 
 ## 🎥 Project Demo
 
-This demo showcases the complete workflow of the Brain Tumor Classification system, including image upload, preprocessing, CNN-based prediction, confidence scores, and result visualization.
+This video showcases the complete workflow of the Salon Website, including navigation through sections, services, gallery slider, client testimonials, and contact features. See how the site responds across devices and how animations enhance the user experience.
 
-▶️ [Google Drive Link](https://drive.google.com/file/d/1bTZAPYUFGMByg1zFmahwQTzttGkAHAyT/view?usp=sharing)
+▶️ [Google Drive Link](https://drive.google.com/file/d/1d6AnyGQyAwaRaCwfoKShGnBdFDC9D7n9/view?usp=sharing)
 
 ---
 
