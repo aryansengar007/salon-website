@@ -267,7 +267,7 @@ The demo walks through all sections — hero, services grid, gallery slider, cli
 
 ### Aryan Sengar
 
-🎓 **B.Tech CSE (AI & ML)** @ The NorthCap University &nbsp;|&nbsp; 🌍 Gurgaon, India
+🎓 **B.Tech CSE (AI & ML)** &nbsp;|&nbsp; 🌍 Gurgaon, India
 &nbsp;|&nbsp; Frontend Developer & UI Enthusiast
 
 <br/>
